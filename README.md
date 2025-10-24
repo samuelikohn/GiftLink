@@ -37,7 +37,6 @@ The application includes the following features:
   - Express
   - MongoDB
   - JWT Authentication
-  - Bcrypt (Password Hashing)
 
 - **Tools**:
   - Git/GitHub
