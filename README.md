@@ -8,7 +8,7 @@ The application includes the following features:
 - Home Page
 - Listings Page
 - Search Functionality
-- Intuituve Navigation
+- Intuitive Navigation
 - Item Details Page
 - User Registration and Login
 - Editable User Profile Page
